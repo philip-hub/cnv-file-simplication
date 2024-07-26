@@ -25,3 +25,7 @@ To edit the app. Go to the source code in `src/main.py` make an changes.
 Whe completed with the editing inside the src file run 
 
 `pyinstaller --onefile --windowed main.py`
+
+# Acknowlegements
+
+<a href="https://icons8.com/icon/8G3Cx5xIPwKK/chromosome" target="blank">Icon Used</a>
