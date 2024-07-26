@@ -2,7 +2,7 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VobzE2M2p0YnR1MGpqeHQ4dGttb3MzeWJqYThoeHJ0cWZwZzF0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V6bb0SM5h2xcQ/giphy.webp" alt="GIF" width="500"/>
 
-Download the .exe file to get the tool.
+Download the .exe file to get the tool. <a href="https://github.com/philip-hub/cnv-file-simplication/blob/main/main.exe" target="_blank">Download Link</a>
 
 1. Choose the file you wish to simplify
 2. Choose the simplication option you want
